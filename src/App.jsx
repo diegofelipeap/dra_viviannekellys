@@ -32,7 +32,7 @@ function App() {
         <div className="space-y-8 w-full">
           <WhatsAppButton
             phoneNumber="558299460477"
-            message="Oi dra. Vivianne, vim através do seu Insta e gostaria de saber mais!"
+            message="Oi Dra. Vivianne, vim através do seu Insta e gostaria de saber mais!"
           />
 
           <SocialLinks
